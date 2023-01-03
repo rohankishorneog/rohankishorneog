@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on my website <br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking for job as a web developer<br>🌱 I’m currently learning blockchain<br>💬 Ask me about anything<br>⚡ Fun fact: I am extremely good at Cricket.
+🔭 I’m currently working on my website <br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking for job as a web developer<br>🌱 I’m currently learning reactJS<br>💬 Ask me about anything<br>⚡ Fun fact: I am extremely good at Cricket.
 
 
 ## 🌐 Socials:
